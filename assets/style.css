@@ -632,7 +632,6 @@ section:target {
     flex-direction: column;
     position: relative;
     height: 272px;
-    cursor: pointer;
 }
 
 .hotel-card-image-wrapper {
