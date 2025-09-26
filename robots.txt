@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# sitemap location
+Sitemap: https://www.armesp.com/sitemap.xml
