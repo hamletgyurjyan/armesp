@@ -1872,6 +1872,12 @@ document.addEventListener('DOMContentLoaded', function () {
         function update() {
             renderArticles(currentPage);
             renderPagination();
+            
+            // ✅ Scroll back to top whenever the page changes
+            window.scrollTo({
+            top: 0,
+            behavior: "smooth" // smooth scroll for better UX
+            });
         }
         update();
     }
