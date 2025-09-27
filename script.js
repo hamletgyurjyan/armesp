@@ -88,7 +88,7 @@ const translations = {
         contact_whatsapp: "Contact us via WhatsApp",
         contact_email: "Contact us via Email",
         footer_desc: "Private Airport Transfers in Alicante. Motion Meets Comfort, Anytime, Over Local Roads!",
-        first_transfer_info: "First Transfer Information",
+        first_transfer_info: "Transfer Information",
         pickup_location: "Pick-up Location *",
         dropoff_location: "Drop-off Location *",
         pickup_date: "Pick-up Date *",
