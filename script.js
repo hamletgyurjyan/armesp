@@ -1659,105 +1659,105 @@ document.addEventListener('DOMContentLoaded', function () {
                 id: 1,
                 title: "Private Airport Transfer vs. Taxi in Alicante: Which Is the Better Choice?",
                 text: "Traveling to Alicante is always exciting, but the first step — getting from Alicante Airport to your destination — often sets the tone for your trip.",
-                img: "./assets/image/background/article-better-choice.webp",
+                img: "/assets/image/background/article-better-choice.webp",
                 date: "02.04.2025",
             },
             {
                 id: 2,
                 title: "Booking a Private Transfer in Alicante with ArmEsp Transfers: Pricing, Service & Safety",
                 text: "Booking a private transfer in Alicante doesn’t have to be confusing or stressful. With ArmEsp Transfers, travelers enjoy a transparent, reliable, and comfortable journey from the airport to their destination. ",
-                img: "./assets/image/background/Booking a Private Transfer.webp",
+                img: "/assets/image/background/Booking a Private Transfer.webp",
                 date: "14.04.2025",
             },
             {
                 id: 3,
                 title: "Private Airport Transfers in Alicante with ArmEsp Transfers: Pre-Flight Checklist",
                 text: "Traveling can be stressful, but your journey truly begins the moment you leave home. Booking a private airport transfer in Alicante with ArmEsp Transfers guarantees a smooth, comfortable, and stress-free start to your trip.",
-                img: "./assets/image/background/Private Airport Transfers.webp",
+                img: "/assets/image/background/Private Airport Transfers.webp",
                 date: "22.04.2025",
             },
             {
                 id: 4,
                 title: "Family-Friendly Private Transfers with ArmEsp Transfers: Free Child Seats",
                 text: "Traveling with family requires extra planning, especially when getting from Alicante Airport to your destination. With ArmEsp Transfers, you can enjoy a safe, comfortable, and stress-free journey designed for families.",
-                img: "./assets/image/background/Family-Friendly Private Transfers.webp",
+                img: "/assets/image/background/Family-Friendly Private Transfers.webp",
                 date: "18.05.2025",
             },
             {
                 id: 5,
                 title: "Tips for Traveling Late at Night: Private Transfers vs. Other Options in Alicante",
                 text: "Traveling late at night in Alicante can feel stressful and challenging. While taxis, ride-shares, and public transport are available, private transfers with ArmEsp Transfers provide unmatched safety, comfort, and reliability when travelers need it the most. In this guide, we share essential tips for late-night travel and explain why a private transfer is the smarter choice.",
-                img: "./assets/image/background/Tips for Traveling Late at Night.webp",
+                img: "/assets/image/background/Tips for Traveling Late at Night.webp",
                 date: "30.05.2025",
             },
             {
                 id: 6,
                 title: "Corporate Private Transfers in Alicante with ArmEsp Transfers: Business Travel & Events",
                 text: "For business travelers, arriving on time, stress-free, and in comfort is non-negotiable. Alicante is a growing hub for meetings, conferences, and corporate events, where reliable transportation plays a vital role in productivity and professionalism.",
-                img: "./assets/image/background/Corporate Private Transfers.webp",
+                img: "/assets/image/background/Corporate Private Transfers.webp",
                 date: "10.06.2025",
             },
             {
                 id: 7,
                 title: "Group Private Transfers in Alicante with ArmEsp Transfers: Events & Big Travel",
                 text: "Traveling with a large group in Alicante or the Costa Blanca can be challenging. Coordinating multiple taxis, ride-shares, or public transport often leads to delays, miscommunication, and unnecessary stress.",
-                img: "./assets/image/background/Group Travel Made Easy.webp",
+                img: "/assets/image/background/Group Travel Made Easy.webp",
                 date: "24.06.2025",
             },
             {
                 id: 8,
                 title: "24/7 Private Transfers in Alicante with ArmEsp Transfers – Travel Day or Night",
                 text: "Travel plans don’t always follow a 9-to-5 schedule. Whether your flight arrives early in the morning, late at night, or during holidays, reliable transportation is essential. ArmEsp Transfers offers 24/7 private transfer services in Alicante, ensuring that travelers enjoy convenient, safe, and comfortable rides at any hour.",
-                img: "./assets/image/background/24-7 Private Transfers in Alicante.webp",
+                img: "/assets/image/background/24-7 Private Transfers in Alicante.webp",
                 date: "05.07.2025",
             },
             {
                 id: 9,
                 title: "24/7 Private Transfers from Alicante Airport: Why Choose ArmEsp Transfers Over Taxis",
                 text: "Arriving at Alicante Airport is always exciting, but the first step of your journey — transportation — can set the tone for your entire trip. While taxis are a common option, more and more travelers are choosing 24/7 private transfers with ArmEsp Transfers for reliability, comfort, and peace of mind. Here’s why private transfers are the smarter choice over taxis.",
-                img: "./assets/image/background/24-7 Private Transfers from Alicante.webp",
+                img: "/assets/image/background/24-7 Private Transfers from Alicante.webp",
                 date: "16.07.2025",
             },
             {
                 id: 10,
                 title: "Transparent Pricing on Private Transfers in Alicante with ArmEsp Transfers",
                 text: "Traveling should be enjoyable and stress-free, but hidden costs can quickly turn an airport transfer into a headache. With ArmEsp Transfers, travelers in Alicante benefit from transparent pricing: what you see is exactly what you pay. No surprises, no extra charges — just reliable, comfortable transportation.",
-                img: "./assets/image/background/Transparent Pricing.webp",
+                img: "/assets/image/background/Transparent Pricing.webp",
                 date: "01.08.2025",
             },
             {
                 id: 11,
                 title: "Travel with Your Pets: Pet-Friendly Private Transfers in Alicante",
                 text: "Traveling with your furry friends should be a joy, not a hassle. ArmEsp Transfers provides pet-friendly private transfers in Alicante, ensuring that both you and your pets enjoy a comfortable, safe, and stress-free journey from the airport to your destination.",
-                img: "./assets/image/background/Travel with Your Pets.webp",
+                img: "/assets/image/background/Travel with Your Pets.webp",
                 date: "14.08.2025",
             },
             {
                 id: 12,
                 title: "Best Golf Resorts Near Alicante and How to Get There with ArmEsp Transfers Private Transfers",
                 text: "Alicante and Costa Blanca are famous for their excellent golf resorts, featuring challenging courses, comfortable accommodations, and beautiful Mediterranean views. Whether you're an experienced golfer or just starting out, these resorts promise a memorable golf experience.",
-                img: "./assets/image/background/Best Golf Resorts Near Alicante.webp",
+                img: "/assets/image/background/Best Golf Resorts Near Alicante.webp",
                 date: "28.08.2025",
             },
             {
                 id: 13,
                 title: "Private Transfers from Alicante to Javea, Denia, Moraira, Calpe & Altea with ArmEsp Transfers",
                 text: "Traveling along Spain’s Mediterranean coast offers beautiful beaches, historic towns, and rich cultural experiences. From sun-soaked shores to charming streets with shops and local restaurants, each destination has something special to offer. ArmEsp Transfers provides private, reliable, and comfortable transfers from Alicante Airport to Javea, Denia, Moraira, Calpe, and Altea, making your journey easy and convenient.",
-                img: "./assets/image/background/Transfers from Alicante to Javea.webp",
+                img: "/assets/image/background/Transfers from Alicante to Javea.webp",
                 date: "04.09.2025",
             },
             {
                 id: 14,
                 title: "ArmEsp Transfers: Private Transfers from Alicante to Albir, Benidorm, Villajoyosa & La Nucia",
                 text: "Traveling along Spain’s eastern coast gives visitors access to vibrant towns, golden beaches, and rich cultural experiences. From lively promenades to charming local streets, each destination has its own unique charm.",
-                img: "./assets/image/background/ArmEsp Transfers, Private Transfers.webp",
+                img: "/assets/image/background/ArmEsp Transfers, Private Transfers.webp",
                 date: "12.09.2025",
             },
             {
                 id: 15,
                 title: "ArmEsp Transfers: Safe Private Transfers to Torrevieja, Orihuela Costa, Guardamar, Santa Pola y Elche",
                 text: "Traveling along Spain’s southern Costa Blanca offers a mix of stunning beaches, charming towns, and cultural experiences. From sun-drenched shores to vibrant local streets with shops and restaurants, each destination has its own unique appeal.",
-                img: "./assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp",
+                img: "/assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp",
                 date: "21.09.2025",
             },
         ]
@@ -1783,7 +1783,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     translations.es[textKey] = article.text;
                 }
                 grid.innerHTML += `
-                    <a href="article.html?id=${article.id}" class="article-link">
+                    <a href="/article/index.html?id=${article.id}" class="article-link">
                         <div class="article-card">
                         <div class="article-card-img">
                             <img src="${article.img}" alt="${article.title}">
@@ -1951,8 +1951,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/article-better-choice.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/article-better-choice-mobile.png" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/article-better-choice.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/article-better-choice-mobile.png" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro">Traveling to Alicante is always exciting, but the first step — getting from Alicante Airport to your destination — often sets the tone for your trip. While taxis, ride-shares, and public transport may seem convenient, private transfers with ArmEsp Transfers provide unmatched comfort, safety, and reliability. Here’s why choosing a private transfer is the smarter option for every traveler.</p>
@@ -2063,8 +2063,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Booking a Private Transfer.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Booking a Private Transfer.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Booking a Private Transfer.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Booking a Private Transfer.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_2">Booking a private transfer in Alicante doesn’t have to be confusing or stressful. With ArmEsp Transfers, travelers enjoy a transparent, reliable, and comfortable journey from the airport to their destination. Whether you’re traveling solo, with family, or for business, knowing what to expect helps ensure a smooth experience from start to finish.</p>
@@ -2174,8 +2174,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Private Airport Transfers.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Private Airport Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Private Airport Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Private Airport Transfers.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_3">Traveling can be stressful, but your journey truly begins the moment you leave home. Booking a private airport transfer in Alicante with ArmEsp Transfers guarantees a smooth, comfortable, and stress-free start to your trip. To help you prepare, here’s a complete pre-flight checklist covering every step from booking to arrival — ensuring peace of mind so you can focus on enjoying your journey.</p>
@@ -2294,8 +2294,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Family-Friendly Private Transfers.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Family-Friendly Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Family-Friendly Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Family-Friendly Private Transfers.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_4">Traveling with family requires extra planning, especially when getting from Alicante Airport to your destination. With ArmEsp Transfers, you can enjoy a safe, comfortable, and stress-free journey designed for families. From free child seats to spacious vehicles and professional service, every ride is smooth and worry-free.</p>
@@ -2405,8 +2405,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Tips for Traveling Late at Night.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Tips for Traveling Late at Night.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Tips for Traveling Late at Night.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Tips for Traveling Late at Night.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                         <p class="article-paragraph" data-translate="article1_intro_5">Traveling late at night in Alicante can feel stressful and challenging. While taxis, ride-shares, and public transport are available, private transfers with ArmEsp Transfers provide unmatched safety, comfort, and reliability when travelers need it the most. In this guide, we share essential tips for late-night travel and explain why a private transfer is the smarter choice.</p>
@@ -2512,8 +2512,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Corporate Private Transfers.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Corporate Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Corporate Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Corporate Private Transfers.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_6">For business travelers, arriving on time, stress-free, and in comfort is non-negotiable. Alicante is a growing hub for meetings, conferences, and corporate events, where reliable transportation plays a vital role in productivity and professionalism. ArmEsp Transfers offers corporate private transfer services designed to deliver punctuality, comfort, and efficiency — so executives and teams can focus on what truly matters.</p>
@@ -2617,8 +2617,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Group Travel Made Easy.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Group Travel Made Easy.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Group Travel Made Easy.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Group Travel Made Easy.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_7">Traveling with a large group in Alicante or the Costa Blanca can be challenging. Coordinating multiple taxis, ride-shares, or public transport often leads to delays, miscommunication, and unnecessary stress. ArmEsp Transfers offers tailored private transfer solutions for big groups and events, ensuring smooth, reliable, and comfortable transportation for everyone.</p>
@@ -2722,8 +2722,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/24-7 Private Transfers in Alicante.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/24-7 Private Transfers in Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/24-7 Private Transfers in Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/24-7 Private Transfers in Alicante.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_8">Travel plans don’t always follow a 9-to-5 schedule. Whether your flight arrives early in the morning, late at night, or during holidays, reliable transportation is essential. ArmEsp Transfers offers 24/7 private transfer services in Alicante, ensuring that travelers enjoy convenient, safe, and comfortable rides at any hour.</p>
@@ -2823,8 +2823,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/24-7 Private Transfers from Alicante.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/24-7 Private Transfers from Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/24-7 Private Transfers from Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/24-7 Private Transfers from Alicante.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_9">Arriving at Alicante Airport is always exciting, but the first step of your journey — transportation — can set the tone for your entire trip. While taxis are a common option, more and more travelers are choosing 24/7 private transfers with ArmEsp Transfers for reliability, comfort, and peace of mind. Here’s why private transfers are the smarter choice over taxis.</p>
@@ -2929,8 +2929,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Transparent Pricing.webp" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Transparent Pricing.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Transparent Pricing.webp" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Transparent Pricing.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_10">Traveling should be enjoyable and stress-free, but hidden costs can quickly turn an airport transfer into a headache. With ArmEsp Transfers, travelers in Alicante benefit from transparent pricing: what you see is exactly what you pay. No surprises, no extra charges — just reliable, comfortable transportation.</p>
@@ -3024,8 +3024,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Travel with Your Pets.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Travel with Your Pets.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Travel with Your Pets.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Travel with Your Pets.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_11">Traveling with your furry friends should be a joy, not a hassle. ArmEsp Transfers provides pet-friendly private transfers in Alicante, ensuring that both you and your pets enjoy a comfortable, safe, and stress-free journey from the airport to your destination.</p>
@@ -3119,8 +3119,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Best Golf Resorts Near Alicante.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Best Golf Resorts Near Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Best Golf Resorts Near Alicante.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Best Golf Resorts Near Alicante.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_12">Alicante and Costa Blanca are famous for their excellent golf resorts, featuring challenging courses, comfortable accommodations, and beautiful Mediterranean views. Whether you're an experienced golfer or just starting out, these resorts promise a memorable golf experience. To make your trip easy and convenient, ArmEsp Transfers provides private, comfortable, and dependable transportation from Alicante Airport to these top golf destinations.</p>
@@ -3241,8 +3241,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/Transfers from Alicante to Javea.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/Transfers from Alicante to Javea.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/Transfers from Alicante to Javea.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/Transfers from Alicante to Javea.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_13">Traveling along Spain’s Mediterranean coast offers beautiful beaches, historic towns, and rich cultural experiences. From sun-soaked shores to charming streets with shops and local restaurants, each destination has something special to offer. ArmEsp Transfers provides private, reliable, and comfortable transfers from Alicante Airport to Javea, Denia, Moraira, Calpe, and Altea, making your journey easy and convenient.</p>
@@ -3351,8 +3351,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/ArmEsp Transfers, Private Transfers.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/ArmEsp Transfers, Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/ArmEsp Transfers, Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/ArmEsp Transfers, Private Transfers.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_14">Traveling along Spain’s eastern coast gives visitors access to vibrant towns, golden beaches, and rich cultural experiences. From lively promenades to charming local streets, each destination has its own unique charm. ArmEsp Transfers provides private, reliable, and comfortable transfers from Alicante Airport to Albir, Benidorm, Villajoyosa, and La Nucia, making your journey easy and convenient.</p>
@@ -3455,8 +3455,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                     </div>
                     
-                    <img class="article-img-web" src="./assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp" alt="Article Better Choice" loading="lazy">
-                    <img class="article-img-mobile" src="./assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-web" src="/assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp" alt="Article Better Choice" loading="lazy">
+                    <img class="article-img-mobile" src="/assets/image/background/ArmEsp Transfers, Safe Private Transfers.webp" alt="Article Better Choice" loading="lazy">
 
                     <div class="article-card-content">
                     <p class="article-paragraph" data-translate="article1_intro_15">Traveling along Spain’s southern Costa Blanca offers a mix of stunning beaches, charming towns, and cultural experiences. From sun-drenched shores to vibrant local streets with shops and restaurants, each destination has its own unique appeal. ArmEsp Transfers provides private, safe, and comfortable transportation from Alicante Airport to Torrevieja, Orihuela Costa, Guardamar, Santa Pola, and Elche, ensuring your journey is smooth and enjoyable.</p>
