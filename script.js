@@ -3419,10 +3419,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     translations.es[textKey] = article.text;
                 }
                 grid.innerHTML += `
-                    <a href="/article/index.html?slug=${article.slug}" 
+                    <a href="/article/index.html?slug=${article.slug}" class="article-link"> 
                         <div class="article-card">
-                        <div class="article-card-img">
-                            <img src="${article.img}" alt="${article.title}">
+                            <div class="article-card-img">
+                                <img src="${article.img}" alt="${article.title}">
                         </div>
                         <div class="article-content">
                             <h3 data-translate="${titleKey}">${article.title}</h3>
