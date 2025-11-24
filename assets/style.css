@@ -90,7 +90,7 @@ body {
     text-decoration: none;
     color: var(--text-dark);
     font-weight: 400;
-    transition: color 0.3s ease;
+    transition: color 0.1s ease;
     display: flex;
     align-items: center;
     font-size: 22px;
