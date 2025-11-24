@@ -2708,6 +2708,60 @@ const translations = {
         article1_conclusion_text1_15: "Explorar Torrevieja, Orihuela Costa, Guardamar, Santa Pola y Elche es fácil con los traslados privados de ArmEsp. Disfruta de un transporte cómodo, seguro y confiable, evita las incertidumbres de taxis o transporte público y aprovecha al máximo tu tiempo descubriendo el sur de la Costa Blanca."
     }
 };
+
+    function setupScrollSpy() {
+    // Select links using your HTML class
+    const navLinks = document.querySelectorAll('.desktop-nav-links a[data-target]');
+    
+    // Select ALL sections that have an ID. We ignore the 'header' element from your previous attempts.
+    const sections = document.querySelectorAll('section[id]'); 
+
+    function updateActiveSection() {
+        let currentSectionId = '';
+        // Offset ensures the link highlights slightly before the section hits the very top
+        const scrollPosition = window.scrollY + 100;
+
+        sections.forEach(section => {
+            if (section.offsetTop <= scrollPosition) {
+                currentSectionId = section.getAttribute('id');
+            }
+        });
+
+        const documentHeight = document.documentElement.scrollHeight;
+        const viewportHeight = window.innerHeight;
+
+        const scrollBottomThreshold = documentHeight - viewportHeight - 1200;
+
+        if (window.scrollY >= scrollBottomThreshold) {
+            const lastTrackedSectionId = sections[sections.length - 1].getAttribute('id');
+
+            if (currentSectionId === lastTrackedSectionId) {
+                currentSectionId = '';
+            }
+        }
+
+        // Loop through all navigation links
+        navLinks.forEach(link => {
+            link.classList.remove('active'); // Remove active class from ALL links first
+            
+            // Check if the link's data-target matches the current section ID
+            if (link.getAttribute('data-target') === currentSectionId) {
+                link.classList.add('active'); // Add the active class
+            }
+        });
+    }
+
+    // Attach the function to the scroll event
+    window.addEventListener('scroll', updateActiveSection);
+    
+    // Call it initially
+    updateActiveSection();
+}
+
+window.onload = function() {
+    setupScrollSpy();
+}
+
     
 /**
  * Sets the language and updates translations + selected flag.
@@ -2828,7 +2882,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     const desktopNavLinks = document.querySelectorAll('.desktop-nav-links a');
-    const sections = document.querySelectorAll('section[id], header');
 
     window.addEventListener('scroll', () => {
         let currentSection = '';
@@ -3419,7 +3472,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     translations.es[textKey] = article.text;
                 }
                 grid.innerHTML += `
-                    <a href="/article/index.html?slug=${article.slug}" class="article-link"> 
+                   <a href="/article/index.html?slug=${article.slug}" class="article-link">
                         <div class="article-card">
                             <div class="article-card-img">
                                 <img src="${article.img}" alt="${article.title}">
@@ -3441,8 +3494,9 @@ document.addEventListener('DOMContentLoaded', function () {
                         </div>
                         </div>
                     </a>
-                    `;
+                `;
             });
+            
             setLanguage(currentLang)
         }
         function renderPagination() {
