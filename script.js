@@ -3576,6 +3576,15 @@ document.addEventListener('DOMContentLoaded', function () {
         const urlParams = new URLSearchParams(window.location.search);
         const articleSlug = urlParams.get('slug');
 
+        if (articleSlug) {
+            const template = document.querySelector(`template[data-slug="${articleSlug}"]`);
+
+            if (template) {
+                const ogTags = template.content.cloneNode(true);
+                document.head.appendChild(ogTags);
+            }
+        }
+
         const currentArticle = articles.find(article => article.slug === articleSlug);
 
 
