@@ -3576,32 +3576,48 @@ document.addEventListener('DOMContentLoaded', function () {
         const urlParams = new URLSearchParams(window.location.search);
         const articleSlug = urlParams.get('slug');
 
-        const currentArticle = articles.find(article => article.slug === articleSlug);
+        // *** ALL ARTICLE PAGE LOGIC MUST BE INSIDE THIS IF BLOCK ***
+        if (articleSlug) { 
+            // --- 1. OG Tag Fix: Insert Unique Meta Tags for Human Browsers ---
+            const template = document.querySelector(`template[data-slug="${articleSlug}"]`);
+            if (template) {
+                const ogTags = template.content.cloneNode(true);
+                document.head.appendChild(ogTags);
+            }
+            // --- End OG Tag Fix ---
 
+            // --- Rest of your original article loading logic continues here ---
+            const currentArticle = articles.find(article => article.slug === articleSlug);
+            const contentDiv = document.getElementById("content");
+            
+            if (currentArticle) {
+                const id = currentArticle.id;
+                contentDiv.innerHTML = contents[id] || "<p>Content not found.</p>";
+                document.title = currentArticle.title;
 
-        const contentDiv = document.getElementById("content");
+                // This line ensures the canonical link is specific to the article
+                const canonicalLink = document.createElement('link');
+                canonicalLink.setAttribute('rel', 'canonical');
+                canonicalLink.setAttribute('href', `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`);
+                document.head.appendChild(canonicalLink);
 
-        if (currentArticle) {
-            const id = currentArticle.id;
-            contentDiv.innerHTML = contents[id] || "<p>Content not found.</p>";
-            document.title = currentArticle.title;
+                const shareLinks = document.querySelectorAll(".articles-share a");
+                shareLinks.forEach(link => {
+                    const url = `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`;
+                    if (link.classList.contains('twitter')) {
+                        link.href = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(currentArticle.title)}`;
+                    }
+                });        
 
-            const canonicalLink = document.createElement('link');
-            canonicalLink.setAttribute('rel', 'canonical');
-            canonicalLink.setAttribute('href', `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`);
-            document.head.appendChild(canonicalLink);
-
-            const shareLinks = document.querySelectorAll(".articles-share a");
-            shareLinks.forEach(link => {
-                const url = `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`;
-                if (link.classList.contains('twitter')) {
-                    link.href = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(currentArticle.title)}`;
-                }
-            });        
+            } else {
+                contentDiv.innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
+                document.title = "Article Not Found";
+            }
 
         } else {
-             contentDiv.innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
-             document.title = "Article Not Found";
+            // If no slug is present, display the 'Article not found' error
+            document.getElementById("content").innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
+            document.title = "Article Not Found";
         }
 
         setLanguage(currentLang);
