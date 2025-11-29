@@ -3576,32 +3576,54 @@ document.addEventListener('DOMContentLoaded', function () {
         const urlParams = new URLSearchParams(window.location.search);
         const articleSlug = urlParams.get('slug');
 
-        const currentArticle = articles.find(article => article.slug === articleSlug);
+        if (articleSlug) {
+            // --- 1. OG Tag Fix: Insert Unique Meta Tags for Human Browsers ---
+            const template = document.querySelector(`template[data-slug="${articleSlug}"]`);
+            if (template) {
+                const ogTags = template.content.cloneNode(true);
+                document.head.appendChild(ogTags);
+            }
+            // --- End OG Tag Fix ---
 
+            const currentArticle = articles.find(article => article.slug === articleSlug);
+            const contentDiv = document.getElementById("content");
+            
+            if (currentArticle) {
+                const id = currentArticle.id;
+                contentDiv.innerHTML = contents[id] || "<p>Content not found.</p>";
+                document.title = currentArticle.title;
 
-        const contentDiv = document.getElementById("content");
+                // This ensures the canonical link is specific to the article
+                const canonicalLink = document.createElement('link');
+                canonicalLink.setAttribute('rel', 'canonical');
+                canonicalLink.setAttribute('href', `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`);
+                document.head.appendChild(canonicalLink);
 
-        if (currentArticle) {
-            const id = currentArticle.id;
-            contentDiv.innerHTML = contents[id] || "<p>Content not found.</p>";
-            document.title = currentArticle.title;
+                // --- CRITICAL FIX: Update ALL Share Links to the correct URL ---
+                const shareLinks = document.querySelectorAll(".articles-share a");
+                const articleUrl = `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`;
+                const encodedUrl = encodeURIComponent(articleUrl);
+                const encodedTitle = encodeURIComponent(currentArticle.title);
+                
+                shareLinks.forEach(link => {
+                    if (link.classList.contains('twitter')) {
+                        link.href = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`;
+                    } else if (link.classList.contains('linkedin')) {
+                        link.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`;
+                    } else if (link.classList.contains('facebook')) {
+                        link.href = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`;
+                    }
+                });        
+                // --- END CRITICAL FIX ---
 
-            const canonicalLink = document.createElement('link');
-            canonicalLink.setAttribute('rel', 'canonical');
-            canonicalLink.setAttribute('href', `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`);
-            document.head.appendChild(canonicalLink);
-
-            const shareLinks = document.querySelectorAll(".articles-share a");
-            shareLinks.forEach(link => {
-                const url = `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`;
-                if (link.classList.contains('twitter')) {
-                    link.href = `https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(currentArticle.title)}`;
-                }
-            });        
+            } else {
+                contentDiv.innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
+                document.title = "Article Not Found";
+            }
 
         } else {
-             contentDiv.innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
-             document.title = "Article Not Found";
+            document.getElementById("content").innerHTML = "<h2>Article not found!</h2><p>The page you requested does not exist.</p>";
+            document.title = "Article Not Found";
         }
 
         setLanguage(currentLang);
