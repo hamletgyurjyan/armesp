@@ -129,7 +129,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">02.04.2025</div>
                     <div class="articles-share">
-                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=alicante-transfer-vs-taxi-choice" class="article-icon twitter" aria-label="twitter">
+                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/alicante-transfer-vs-taxi-choice.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -142,7 +142,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=alicante-transfer-vs-taxi-choice" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/alicante-transfer-vs-taxi-choice.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -158,7 +158,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://https://www.armesp.com/article/index.html?slug=alicante-transfer-vs-taxi-choice" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://https://www.armesp.com/blog-redirects/alicante-transfer-vs-taxi-choice.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -241,7 +241,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">14.04.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=booking-private-transfer-alicante" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/booking-private-transfer-alicante.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -254,7 +254,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=booking-private-transfer-alicante" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/booking-private-transfer-alicante.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -270,7 +270,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=booking-private-transfer-alicante" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/booking-private-transfer-alicante.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -352,7 +352,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">22.04.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=alicante-airport-transfer-checklist" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/alicante-airport-transfer-checklist.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -365,7 +365,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=alicante-airport-transfer-checklist" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/alicante-airport-transfer-checklist.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -381,7 +381,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=alicante-airport-transfer-checklist" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/alicante-airport-transfer-checklist.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -472,7 +472,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">18.05.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=family-private-transfer-free-child-seats" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/family-private-transfer-free-child-seats.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -485,7 +485,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=family-private-transfer-free-child-seats" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/family-private-transfer-free-child-seats.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -501,7 +501,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=family-private-transfer-free-child-seats" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/family-private-transfer-free-child-seats.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -583,7 +583,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">30.05.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=late-night-travel-alicante-transfer-tips" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/late-night-travel-alicante-transfer-tips.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -596,7 +596,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=late-night-travel-alicante-transfer-tips" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/late-night-travel-alicante-transfer-tips.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -612,7 +612,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=late-night-travel-alicante-transfer-tips" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/late-night-travel-alicante-transfer-tips.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -690,7 +690,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">10.06.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=corporate-private-transfers-alicante-business-events" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/corporate-private-transfers-alicante-business-events.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -703,7 +703,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=corporate-private-transfers-alicante-business-events" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/corporate-private-transfers-alicante-business-events.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -719,7 +719,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=corporate-private-transfers-alicante-business-events" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/corporate-private-transfers-alicante-business-events.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -795,7 +795,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">24.06.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=group-private-transfers-alicante-events" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/group-private-transfers-alicante-events.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -808,7 +808,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=group-private-transfers-alicante-events" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/group-private-transfers-alicante-events.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -824,7 +824,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=group-private-transfers-alicante-events" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/group-private-transfers-alicante-events.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -900,7 +900,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">05.07.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=24-7-private-transfers-alicante-day-night" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/24-7-private-transfers-alicante-day-night.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -913,7 +913,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=24-7-private-transfers-alicante-day-night" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/24-7-private-transfers-alicante-day-night.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -929,7 +929,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=24-7-private-transfers-alicante-day-night" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/24-7-private-transfers-alicante-day-night.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1001,7 +1001,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">16.07.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=24-7-alicante-airport-transfer-vs-taxi" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/24-7-alicante-airport-transfer-vs-taxi.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1014,7 +1014,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=24-7-alicante-airport-transfer-vs-taxi" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/24-7-alicante-airport-transfer-vs-taxi.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1030,7 +1030,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=24-7-alicante-airport-transfer-vs-taxi" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/24-7-alicante-airport-transfer-vs-taxi.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1107,7 +1107,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">01.08.2025</div>
                     <div class="articles-share">
-                                               <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=transparent-pricing-private-transfers-alicante" class="article-icon twitter" aria-label="twitter">
+                                               <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/transparent-pricing-private-transfers-alicante.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1120,7 +1120,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=transparent-pricing-private-transfers-alicante" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/transparent-pricing-private-transfers-alicante.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1136,7 +1136,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=transparent-pricing-private-transfers-alicante" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/transparent-pricing-private-transfers-alicante.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1202,7 +1202,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">14.08.2025</div>
                     <div class="articles-share">
-                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=pet-friendly-private-transfers-alicante" class="article-icon twitter" aria-label="twitter">
+                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/pet-friendly-private-transfers-alicante.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1215,7 +1215,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=pet-friendly-private-transfers-alicante" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/pet-friendly-private-transfers-alicante.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1231,7 +1231,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=pet-friendly-private-transfers-alicante" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/pet-friendly-private-transfers-alicante.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1297,7 +1297,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">28.08.2025</div>
                     <div class="articles-share">
-                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=best-golf-resorts-alicante-private-transfers" class="article-icon twitter" aria-label="twitter">
+                                                <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/best-golf-resorts-alicante-private-transfers.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1310,7 +1310,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=best-golf-resorts-alicante-private-transfers" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/best-golf-resorts-alicante-private-transfers.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1326,7 +1326,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=best-golf-resorts-alicante-private-transfers" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/best-golf-resorts-alicante-private-transfers.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1419,7 +1419,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">04.09.2025</div>
                     <div class="articles-share">
-                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-javea-denia-moraira-calpe-altea" class="article-icon twitter" aria-label="twitter">
+                        <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/private-transfers-alicante-javea-denia-moraira-calpe-altea.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1432,7 +1432,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-javea-denia-moraira-calpe-altea" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/private-transfers-alicante-javea-denia-moraira-calpe-altea.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1448,7 +1448,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-javea-denia-moraira-calpe-altea" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/private-transfers-alicante-javea-denia-moraira-calpe-altea.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1529,7 +1529,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">12.09.2025</div>
                     <div class="articles-share">
-                    <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia" class="article-icon twitter" aria-label="twitter">
+                    <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1542,7 +1542,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1558,7 +1558,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/private-transfers-alicante-albir-benidorm-villajoyosa-la-nucia.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1633,7 +1633,7 @@ const articles = [
                     <div class="date-article">
                     <div class="article-date">21.09.2025</div>
                     <div class="articles-share">
-                    <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/article/index.html?slug=safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche" class="article-icon twitter" aria-label="twitter">
+                    <a title="Tweeter" href="https://twitter.com/intent/tweet?url=https://www.armesp.com/blog-redirects/safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche.html" class="article-icon twitter" aria-label="twitter">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                                 <g clip-path="url(#clip0_3799_5212)">
                                     <path d="M5.33203 5.33301L20.976 26.6663H26.6654L11.0214 5.33301H5.33203Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1646,7 +1646,7 @@ const articles = [
                                 </defs>
                             </svg>
                         </a>
-                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/article/index.html?slug=safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche" class="article-icon linkedin" aria-label="linkedin" target="_blank">
+                        <a title="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.armesp.com/blog-redirects/safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche.html" class="article-icon linkedin" aria-label="linkedin" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                         <g clip-path="url(#clip0_3799_5213)">
                             <path d="M10.668 14.667V21.3337" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1662,7 +1662,7 @@ const articles = [
                         </defs>
                         </svg>
                         </a>
-                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/article/index.html?slug=safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche" class="article-icon facebook" aria-label="facebook" target="_blank">
+                        <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.armesp.com/blog-redirects/safe-private-transfers-torrevieja-orihuela-costa-guardamar-santa-pola-elche.html" class="article-icon facebook" aria-label="facebook" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
                             <g clip-path="url(#clip0_3799_5214)">
                                 <path d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
