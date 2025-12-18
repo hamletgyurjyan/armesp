@@ -2064,7 +2064,7 @@ text-align: center;
     display: none;
 }
 
-.content-block .article-img-web {
+.article-img-web {
     width: 100%;
     object-fit: cover;
 }

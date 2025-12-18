@@ -467,7 +467,7 @@ const articles = [
         `
             ,
             4: `
-          <h1 class="article-title" data-translate="title_4">Family-Friendly Private Transfers with ArmEsp Transfers: Free Child Seats </h1>
+                <h1 class="article-title" data-translate="title_4">Family-Friendly Private Transfers with ArmEsp Transfers: Free Child Seats </h1>
                     
                     <div class="date-article">
                     <div class="article-date">18.05.2025</div>
@@ -1197,7 +1197,7 @@ const articles = [
                     </div>
         `,
             11: `
-               <h1 class="article-title" data-translate="title_11">Travel with Your Pets: Pet-Friendly Private Transfers in Alicante </h1>
+                <h1 class="article-title" data-translate="title_11">Travel with Your Pets: Pet-Friendly Private Transfers in Alicante </h1>
                     
                     <div class="date-article">
                     <div class="article-date">14.08.2025</div>
@@ -1524,7 +1524,7 @@ const articles = [
                     </div>
         `,
             14: `
-           <h1 class="article-title" data-translate="title_14">ArmEsp Transfers: Private Transfers from Alicante to Albir, Benidorm, Villajoyosa & La Nucia </h1>
+                <h1 class="article-title" data-translate="title_14">ArmEsp Transfers: Private Transfers from Alicante to Albir, Benidorm, Villajoyosa & La Nucia </h1>
                     
                     <div class="date-article">
                     <div class="article-date">12.09.2025</div>
@@ -2830,11 +2830,37 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     const params = new URLSearchParams(window.location.search);
-    const sectionParam = params.get('section');
-    if (sectionParam) {
-        const section = document.getElementById(sectionParam);
-        if (section) {
-            section.scrollIntoView({ behavior: 'smooth' });
+    let slug = params.get('slug');
+
+    // If no slug in URL, get it from the filename (e.g. alicante-transfer-vs-taxi-choice)
+    if (!slug) {
+        const path = window.location.pathname;
+        const filename = path.split('/').pop().replace('.html', '');
+        if (contents[filename]) {
+            slug = filename;
+        }
+    }
+
+    if (slug) {
+        const currentArticle = contents[slug];
+        if (currentArticle) {
+            // Function to update the text
+            const updateUI = () => {
+                const contentDiv = document.getElementById("content");
+                if (contentDiv) {
+                    contentDiv.innerHTML = currentArticle[currentLang];
+                }
+                document.title = currentArticle.title || "Article";
+            };
+
+            updateUI();
+
+            // Link the translation button to this article
+            const oldSetLang = window.setLanguage;
+            window.setLanguage = (lang) => {
+                if (typeof oldSetLang === 'function') oldSetLang(lang);
+                updateUI();
+            };
         }
     }
 
@@ -3472,7 +3498,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     translations.es[textKey] = article.text;
                 }
                 grid.innerHTML += `
-                   <a href="/article/index.html?slug=${article.slug}" class="article-link">
+                   <a href="/article/${article.slug}.html" class="article-link">
                         <div class="article-card">
                             <div class="article-card-img">
                                 <img src="${article.img}" alt="${article.title}">
@@ -3596,12 +3622,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 // This ensures the canonical link is specific to the article
                 const canonicalLink = document.createElement('link');
                 canonicalLink.setAttribute('rel', 'canonical');
-                canonicalLink.setAttribute('href', `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`);
+                canonicalLink.setAttribute('href', `https://www.armesp.com/article/${currentArticle.slug}.html`);
                 document.head.appendChild(canonicalLink);
 
                 // --- CRITICAL FIX: Update ALL Share Links to the correct URL ---
                 const shareLinks = document.querySelectorAll(".articles-share a");
-                const articleUrl = `https://www.armesp.com/article/index.html?slug=${currentArticle.slug}`;
+                const articleUrl = `https://www.armesp.com/article/${currentArticle.slug}.html`;
                 const encodedUrl = encodeURIComponent(articleUrl);
                 const encodedTitle = encodeURIComponent(currentArticle.title);
                 
