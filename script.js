@@ -2850,7 +2850,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (contentDiv) {
                     contentDiv.innerHTML = currentArticle[currentLang];
                 }
-                document.title = currentArticle.title || "Article";
+                
             };
 
             updateUI();
