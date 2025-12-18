@@ -2827,7 +2827,7 @@ text-align: center;
         display: none;
     }
 
-    .content-block .article-img-mobile {
+    .article-img-mobile {
         min-height: 488px;
         width: 100%;
         display: block;

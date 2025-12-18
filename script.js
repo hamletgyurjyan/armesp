@@ -3498,7 +3498,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     translations.es[textKey] = article.text;
                 }
                 grid.innerHTML += `
-                   <a href="/article/${article.slug}.html" class="article-link">
+                   <a href="/article/${article.slug}" class="article-link">
                         <div class="article-card">
                             <div class="article-card-img">
                                 <img src="${article.img}" alt="${article.title}">
@@ -3622,12 +3622,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 // This ensures the canonical link is specific to the article
                 const canonicalLink = document.createElement('link');
                 canonicalLink.setAttribute('rel', 'canonical');
-                canonicalLink.setAttribute('href', `https://www.armesp.com/article/${currentArticle.slug}.html`);
+                canonicalLink.setAttribute('href', `https://www.armesp.com/article/${currentArticle.slug}`);
                 document.head.appendChild(canonicalLink);
 
                 // --- CRITICAL FIX: Update ALL Share Links to the correct URL ---
                 const shareLinks = document.querySelectorAll(".articles-share a");
-                const articleUrl = `https://www.armesp.com/article/${currentArticle.slug}.html`;
+                const articleUrl = `https://www.armesp.com/article/${currentArticle.slug}`;
                 const encodedUrl = encodeURIComponent(articleUrl);
                 const encodedTitle = encodeURIComponent(currentArticle.title);
                 
