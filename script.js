@@ -1236,7 +1236,6 @@ function validateEmail(inputId) {
   });
 });
 
-/* return section toggle */
 const addReturnToggle = document.getElementById('add-return-toggle');
 if (addReturnToggle) {
   addReturnToggle.addEventListener('click', () => {
@@ -1259,7 +1258,16 @@ if (deleteReturnBtn) {
   });
 }
 
-/* step navigation */
+function scrollToFirstError() {
+  const firstError = document.querySelector('.has-error');
+  if (!firstError) return;
+  const offset = 120;
+  const top = firstError.getBoundingClientRect().top + window.pageYOffset - offset;
+  window.scrollTo({ top, behavior: 'smooth' });
+  const focusable = firstError.querySelector('input, select, textarea');
+  if (focusable) focusable.focus({ preventScroll: true });
+}
+
 const goStep2 = document.getElementById('go-step-2');
 if (goStep2) {
   goStep2.addEventListener('click', () => {
@@ -1294,7 +1302,7 @@ if (goStep2) {
       }
     }
 
-    if (!valid) return;
+   if (!valid) { scrollToFirstError(); return; }
 
     document.getElementById('page-1')?.classList.remove('active');
     document.getElementById('page-2')?.classList.add('active');
@@ -1318,7 +1326,6 @@ if (goStep1) {
   });
 }
 
-/* submit */
 const submitBtn = document.getElementById('submitBtn');
 if (submitBtn) {
   submitBtn.addEventListener('click', async () => {
@@ -1327,7 +1334,7 @@ if (submitBtn) {
     valid = validateRequired('full-name')    && valid;
     valid = validateRequired('phone-number') && valid;
     valid = validateEmail('email-address')   && valid;
-    if (!valid) return;
+   if (!valid) { scrollToFirstError(); return; }
 
     const pickup  = fieldEl('pickup-location')?.value.trim() || '';
     const dropoff = fieldEl('dropoff-location')?.value.trim() || '';

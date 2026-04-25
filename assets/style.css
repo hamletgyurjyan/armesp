@@ -3238,6 +3238,8 @@ h3 {
     margin: 16px 24px;
     display: flex;
     align-items: center;
+    width: -webkit-fill-available;
+    width: -moz-available;
     width: stretch;
     justify-content: center;
     transition: background-color 0.3s ease;
@@ -4170,7 +4172,7 @@ color: var(--text-black);
 
     .field input,
     .field select,
-    .selector-trigger {
+    .selector-trigger, .phone-country-select{
         padding: 10px 14px;
     }
 
