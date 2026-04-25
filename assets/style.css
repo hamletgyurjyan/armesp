@@ -41,7 +41,8 @@ body {
     color: var(--text-dark);
 }
 
-.header-content,.hero-content{
+.header-content,
+.hero-content {
     max-width: 1920px;
 }
 
@@ -51,7 +52,10 @@ body {
 #why-us,
 #faq,
 .footer-elements,
-.contact-card, .articles, .blog-hero, .footer .flex-container{
+.contact-card,
+.articles,
+.blog-hero,
+.footer .flex-container {
     max-width: 1920px;
     margin: 0 auto;
 }
@@ -1920,7 +1924,8 @@ h3 {
     padding-top: 98px;
     background-color: var(--primary-orange-extra-light);
 }
-.blog-section{
+
+.blog-section {
     background-color: var(--primary-orange-extra-light);
 }
 
@@ -3104,7 +3109,7 @@ h3 {
 }
 
 .form-page#page-1 {
-        min-height: 612px;
+    min-height: 612px;
     align-content: start;
 }
 
@@ -3263,8 +3268,10 @@ h3 {
 .success-state.visible {
     display: block;
 }
-#month-arrival{
-color: var(--text-black);
+
+#month-arrival,
+#year-arrival {
+    color: var(--text-black);
 }
 
 @media (min-width: 1440px) {
@@ -3288,7 +3295,8 @@ color: var(--text-black);
     .destination-button-text {
         font-size: 20px;
     }
-    .hero-section{
+
+    .hero-section {
         background-position: 50% 15%;
     }
 }
@@ -3357,7 +3365,8 @@ color: var(--text-black);
     .articles-grid {
         grid-template-columns: repeat(2, 1fr);
     }
-    .hero-section{
+
+    .hero-section {
         background-position: center -100%;
     }
 }
@@ -4054,26 +4063,34 @@ color: var(--text-black);
         font-size: 14px;
     }
 
-      input[type="text"],
-  input[type="email"],
-  input[type="tel"],
-  input[type="time"],
-  input[type="number"],
-  textarea,
-  select,
-  .field input,
-  .field textarea,
-  .field select,
-  .selector-trigger,
-  .time-trigger,
-  .date-input-box,
-  .phone-country-select,
-  .phone-dropdown-search input {
-    font-size: 16px !important;
-  }
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    input[type="time"],
+    input[type="number"],
+    textarea,
+    select,
+    .field input,
+    .field textarea,
+    .field select,
+    .selector-trigger,
+    .time-trigger,
+    .date-input-box,
+    .phone-country-select,
+    .phone-dropdown-search input {
+        font-size: 16px !important;
+    }
 }
 
 @media (max-width: 480px) {
+    .hero-section .hero-content {
+        padding: 64px 16px;
+        gap: 32px;
+    }
+
+    .hero-section {
+        padding: 84px 0;
+    }
 
     .counter-group {
         display: block;
@@ -4172,7 +4189,8 @@ color: var(--text-black);
 
     .field input,
     .field select,
-    .selector-trigger, .phone-country-select{
+    .selector-trigger,
+    .phone-country-select {
         padding: 10px 14px;
     }
 
@@ -4180,7 +4198,8 @@ color: var(--text-black);
         height: 56px;
         padding: 8px 14px;
     }
+
     .form-page#page-1 {
-     min-height: 717px;
+        min-height: 717px;
     }
 }
