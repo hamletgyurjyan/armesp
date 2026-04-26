@@ -2912,7 +2912,7 @@ h3 {
 
 .field input:focus::placeholder,
 .field textarea:focus::placeholder {
-    color: #000;
+    color: transparent;
 }
 
 .field textarea {
