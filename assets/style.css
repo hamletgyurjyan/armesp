@@ -3310,7 +3310,11 @@ h3 {
         object-position: center 17%;
     }
 }
-
+@media (min-width: 1800px) {
+    .hero-bg-img{
+        object-position: center 24%;
+    }
+}
 @media (min-width: 992px) {
     .hero-content {
         margin-top: 100px;
