@@ -3306,8 +3306,8 @@ h3 {
         font-size: 20px;
     }
 
-    .hero-section {
-        background-position: 50% 15%;
+    .hero-bg-img{
+        object-position: center 17%;
     }
 }
 
