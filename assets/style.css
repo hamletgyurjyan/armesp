@@ -4021,7 +4021,7 @@ h3 {
     }
 
     .article-img-mobile {
-        min-height: 488px;
+        min-height: 315px;
         width: 100%;
         display: block;
         object-fit: cover;
