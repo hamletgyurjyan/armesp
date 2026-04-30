@@ -2100,7 +2100,7 @@ function setupScrollSpy() {
 
     const documentHeight = document.documentElement.scrollHeight;
     const viewportHeight = window.innerHeight;
-    const scrollBottomThreshold = documentHeight - viewportHeight - 1200;
+    const scrollBottomThreshold = documentHeight - viewportHeight - 500;
 
     if (window.scrollY >= scrollBottomThreshold) {
       const lastSection = sections[sections.length - 1];
@@ -2271,10 +2271,12 @@ document.addEventListener('DOMContentLoaded', function () {
       const section = document.getElementById(targetId);
       if (section) {
         section.scrollIntoView({ behavior: 'smooth' });
-        history.pushState(null, '', '?section=' + targetId);
+        history.pushState(null, '', '#' + targetId);
       }
     });
   });
+
+  
 
   /* blog slug handling */
   const params = new URLSearchParams(window.location.search);

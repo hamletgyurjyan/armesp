@@ -135,7 +135,6 @@ section:target {
     scroll-margin-top: 80px;
 }
 
-.main-nav.desktop-nav-links ul li a[href*="#"]:focus,
 .main-nav.desktop-nav-links ul li a.active {
     color: var(--primary-orange);
     -webkit-text-stroke-width: 1px;
