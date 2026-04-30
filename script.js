@@ -2564,7 +2564,7 @@ function initHomePage() {
         <div class="hotel-card-overlay"></div>
         <div class="hotel-card-content">
           <div>
-            <h4 class="hotel-card-title" data-translate="${titleKey}">${translations[currentLang][titleKey]}</h4>
+            <p class="hotel-card-title" data-translate="${titleKey}">${translations[currentLang][titleKey]}</p>
             <p class="hotel-card-description" data-translate="${descKey}">${translations[currentLang][descKey]}</p>
           </div>
           <p class="hotel-card-price" data-translate="${priceKey}">${translations[currentLang][priceKey]}</p>
