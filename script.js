@@ -2554,7 +2554,7 @@ function initHomePage() {
         translations.en[priceKey] = `Pricing starts from: ${hotel.price}`;
         translations.es[priceKey] = `Precio desde: ${hotel.price}`;
         translations.en[ctaKey] = "Get a Quote";
-        translations.es[ctaKey] = "Solicitar Cotización";
+        translations.es[ctaKey] = "Cotizar";
       }
 
       hotelCard.innerHTML = `
@@ -2569,7 +2569,10 @@ function initHomePage() {
           </div>
           <p class="hotel-card-price" data-translate="${priceKey}">${translations[currentLang][priceKey]}</p>
         </div>
-        <a href="#trip-form" class="hotel-card-hover-button" data-translate="${ctaKey}">${translations[currentLang][ctaKey]}</a>`;
+        <a href="#trip-form" class="hotel-card-hover-button">
+          <span data-translate="${ctaKey}">${translations[currentLang][ctaKey]}</span>
+          <span class="sr-only"> for ${translations[currentLang][titleKey]}</span>
+        </a>`;
 
       hotelGrid.appendChild(hotelCard);
     });
