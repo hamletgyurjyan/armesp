@@ -1192,6 +1192,13 @@ section:target {
     border-radius: 8px;
 }
 
+#cal-return.open {
+    display: block !important; /* Ensures it shows */
+    top: auto !important;      /* Removes the downward positioning */
+    bottom: 100% !important;   /* Pushes the bottom of the calendar to the top of the input */
+    margin-bottom: 10px;       /* Adds a small gap so it looks nice */
+}
+
 .form-section h2 {
     color: var(--text-black);
     border-bottom: 2px solid var(--primary-orange);
@@ -3323,6 +3330,11 @@ h3 {
 
 #month-arrival,
 #year-arrival {
+    color: var(--text-black);
+}
+
+#month-return,
+#year-return {
     color: var(--text-black);
 }
 
