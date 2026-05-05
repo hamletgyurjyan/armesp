@@ -167,7 +167,7 @@ const translations = {
     form_to: "To *",
     form_arrival_date: "Arrival Date *",
     form_arrival_time: "Arrival Time *",
-    form_select_time: "Select Time",
+    form_select_time: "HH:mm",
     form_flight_number: "Flight Number",
     form_add_return: "Add Return",
     form_return_date: "Return Date *",
@@ -1206,7 +1206,7 @@ const translations = {
     form_to: "Destino *",
     form_arrival_date: "Fecha de llegada *",
     form_arrival_time: "Hora de llegada *",
-    form_select_time: "Elige una hora",
+    form_select_time: "HH:mm",
     form_flight_number: "Número de vuelo",
     form_add_return: "Añadir vuelta",
     form_return_date: "Fecha de regreso *",
@@ -3287,7 +3287,7 @@ function updateCountryCode(el) {
         hc.appendChild(el);
       })(i);
     }
-    for (let j = 0; j < 60; j++) {
+   for (let j = 0; j < 60; j += 5) {
       (function (val) {
         const el = document.createElement('div');
         el.className = 'time-item';

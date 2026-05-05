@@ -1199,6 +1199,13 @@ section:target {
     margin-bottom: 10px;       /* Adds a small gap so it looks nice */
 }
 
+#tp-return-panel {
+    top: auto !important;      /* Removes the default top-down position */
+    bottom: 100% !important;   /* Aligns the bottom of the panel with the top of the input */
+    margin-bottom: 8px;        /* Adds a small gap for a clean look */
+    box-shadow: 0 -4px 12px rgba(0,0,0,0.15) !important; /* Adjusted shadow for upward appearance */
+}
+
 .form-section h2 {
     color: var(--text-black);
     border-bottom: 2px solid var(--primary-orange);
