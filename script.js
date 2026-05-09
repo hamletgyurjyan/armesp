@@ -27,7 +27,7 @@ const translations = {
   en: {
     nav_about: "About",
     nav_top_travel: "Top Travel Spots",
-    nav_how_it_works: "How It Works?",
+    nav_how_it_works: "How It Works",
     nav_why_us: "Why Choose Us",
     nav_faq: "FAQ",
     hero_title: "Private Airport <br>Transfers in Alicante",
@@ -1066,8 +1066,8 @@ const translations = {
   es: {
     nav_about: "Sobre Nosotros",
     nav_top_travel: "Destinos Más Populares",
-    nav_how_it_works: "¿Cómo Funciona?",
-    nav_why_us: "¿Por Qué Elegirnos?",
+    nav_how_it_works: "Cómo Funciona",
+    nav_why_us: "Por Qué Elegirnos",
     nav_faq: "Preguntas Frecuentes",
     hero_title: "Traslados Privados al <br>Aeropuerto en Alicante",
     hero_subtitle: "Fiables, 24/7, Multilingües",
