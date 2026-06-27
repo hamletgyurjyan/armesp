@@ -3643,7 +3643,8 @@ h3 {
     }
 
     .blog-hero__image img {
-        padding-right: 20px;
+        padding-right: 16px;
+        padding-left: 16px;
     }
 
     .blog-hero__image {
@@ -4033,7 +4034,7 @@ h3 {
 
     .articles-section h2 {
         font-size: 28px;
-        text-align: center;
+        text-align: left;
         margin-bottom: 24px;
     }
 
