@@ -40,7 +40,7 @@ const translations = {
     stat_pets: "Pet-Friendly",
     about_title: "About <span>ARMESP</span>",
     about_headline: "Your Trusted Partner for Reliable Transfers",
-    about_desc: `ARMESP Transfers is a professional private transportation service in Alicante, dedicated to making travel easier for everyone visiting or living in the region. The name ARMESP reflects our roots — a collaboration between Armenia and España, uniting two cultures in service excellence.<br><br>
+    about_desc: `ARMESP Transfers is a professional private transportation service in Alicante, dedicated to making travel easier for everyone visiting or living in the region.<br><br>
                      Founded in 2023, we're a fully licensed airport transfer company in Spain offering safe, on-time, and comfortable transfers from Alicante Airport to Benidorm, Calpe, Altea, Albir, Murcia by private car, and to many other destinations.<br><br>
                      We make travel easy with clean, modern cars, multilingual drivers, affordable prices, and reliable service—any time of day.`,
     section_destinations_title: "Top Transfer Destinations",
@@ -1160,7 +1160,7 @@ const translations = {
     stat_pets: "Mascotas Bienvenidas",
     about_title: "Sobre <span>ARMESP</span>",
     about_headline: "Tu Socio de Confianza para Traslados Fiables",
-    about_desc: `ARMESP Transfers es un servicio profesional de transporte privado en Alicante, dedicado a facilitar los traslados a todos los que visitan o viven en la región. El nombre ARMESP refleja nuestras raíces: una colaboración entre Armenia y España, que une dos culturas en busca de la excelencia en el servicio.<br><br>
+    about_desc: `ARMESP Transfers es un servicio profesional de transporte privado en Alicante, dedicado a facilitar los traslados a todos los que visitan o viven en la región.<br><br>
                      Fundada en 2023, somos una empresa de traslados al aeropuerto totalmente autorizada en España, que ofrece traslados seguros, puntuales y cómodos desde el Aeropuerto de Alicante a Benidorm, Calpe, Altea, Albir, Murcia en coche privado, y a muchos otros destinos.<br><br>
                      Facilitamos tus viajes con coches modernos y limpios, conductores multilingües, precios asequibles y un servicio fiable — a cualquier hora del día.`,
     section_destinations_title: "Principales Destinos de Traslado",
