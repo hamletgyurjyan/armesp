@@ -330,5 +330,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://www.armesp.com/article/alicante-airport-restaurants-cafes-best-places-to-eat-before-after-flight.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.armesp.com/article/best-seafood-restaurants-costa-blanca-fresh-fish-paella-mediterranean-dining.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.armesp.com/article/first-time-costa-blanca-ultimate-travel-guide-unforgettable-holiday.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.armesp.com/article/costa-blanca-cycling-guide-best-routes-climbs-bike-tours-every-rider.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.armesp.com/article/how-big-is-alicante-airport-terminal-airlines-destinations-interesting-facts.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.armesp.com/article/costa-blanca-beach-day-essentials-perfect-beach-day.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
 </urlset>
